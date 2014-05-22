@@ -1,0 +1,31 @@
+Company	Prime Standard industry group	Ticker symbol	Index weighting (%)1	Employees
+Adidas	Clothing	ADS	02. Apr	86,824
+Allianz	Insurance	ALV	Jun 66	151,34
+BASF	Chemicals	BAS	Sep 62	111,141
+Bayer	Pharmaceuticals and Chemicals	BAYN	Jul 55	111,8
+Beiersdorf	Consumer goods	BEI	0.86	19,13
+BMW	Manufacturing	BMW	Mrz 26	102,007
+Commerzbank	Banking	CBK	01. Jan	56,221
+Continental	Manufacturing	CON	0.79	170
+Daimler	Manufacturing	DAI	Mai 77	267,274
+Deutsche Bank	Banking	DBK	05. Mai	100,474
+Deutsche B”rse	Securities	DB1	Jan 47	3,588
+Deutsche Lufthansa	Transport Aviation	LHA	0.83	118,088
+Deutsche Post	Communications	DPW	Jan 90	424,351
+Deutsche Telekom	Communications	DTE	Mai 38	235,132
+E.ON	Energy	EOAN	Jun 24	85,105
+Fresenius	Medical	FRE	Jan 63	149,351
+Fresenius Medical Care	Medical	FME	Feb 16	73,45
+HeidelbergCement	Building	HEI	0.86	53,44
+Henkel	Consumer goods	HEN3	Jan 53	47,753
+Infineon Technologies	Manufacturing	IFX	Jan 27	26,658
+K+S	Chemicals	SDF	Jan 18	15,17
+Lanxess	Chemicals	LXS	0.73	14,65
+Linde	Industrial gases	LIN	Mrz 81	62
+Merck	Pharmaceuticals	MRK	0.97	40,676
+Munich Re	Insurance	MUV2	Feb 92	46,915
+RWE	Energy	RWE	Feb 19	70,86
+SAP	IT	SAP	Jul 70	61,344
+Siemens	Industrial, electronics	SIE	Sep 96	405
+ThyssenKrupp	Industrial, manufacturing	TKA	Jan 33	180,05
+Volkswagen Group	Manufacturing	VOW3	Mrz 36	549,763
