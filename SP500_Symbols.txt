@@ -1,0 +1,502 @@
+Security	SEC filings	Ticker symbol	GICS Sector	GICS Sub Industry	Address of Headquarters	Date first added	CIK
+Abbott Laboratories	reports	ABT	Health Care	Health Care Equipment & Services	North Chicago, Illinois		1800
+AbbVie	reports	ABBV	Health Care	Pharmaceuticals	North Chicago, Illinois	31.12.2012	1551152
+ACE Limited	reports	ACE	Financials	Property & Casualty Insurance	Zurich, Switzerland		896159
+Accenture plc	reports	ACN	Information Technology	IT Consulting & Services	Dublin, Ireland		1467373
+Actavis plc	reports	ACT	Health Care	Pharmaceuticals	Dublin, Ireland		884629
+Adobe Systems Inc	reports	ADBE	Information Technology	Application Software	San Jose, California		796343
+ADT Corp	reports	ADT	Industrials	Diversified Commercial Services	Boca Raton, Florida	01.10.2012	1546640
+AES Corp	reports	AES	Utilities	Electric Utilities	Arlington, Virginia		874761
+Aetna Inc	reports	AET	Health Care	Managed Health Care	Hartford, Connecticut		1122304
+AFLAC Inc	reports	AFL	Financials	Life & Health Insurance	Columbus, Georgia		4977
+Agilent Technologies Inc	reports	A	Health Care	Health Care Equipment & Services	Santa Clara, California		1090872
+AGL Resources Inc.	reports	GAS	Utilities	Gas Utilities	Atlanta, Georgia		1004155
+Air Products & Chemicals Inc	reports	APD	Materials	Industrial Gases	Allentown, Pennsylvania		2969
+Airgas Inc	reports	ARG	Materials	Industrial Gases	Radnor, Pennsylvania		804212
+Akamai Technologies Inc	reports	AKAM	Information Technology	Internet Software & Services	Cambridge, Massachusetts		1086222
+Alcoa Inc	reports	AA	Materials	Aluminum	New York, New York		4281
+Alexion Pharmaceuticals	reports	ALXN	Health Care	Biotechnology	Cheshire, Connecticut	24.05.2012	899866
+Allegheny Technologies Inc	reports	ATI	Materials	Diversified Metals & Mining	Pittsburgh, Pennsylvania		1018963
+Allegion	reports	ALLE	Industrials	Building Products	Dublin, Ireland	02.12.2013	1579241
+Allergan Inc	reports	AGN	Health Care	Pharmaceuticals	Irvine, California		850693
+Alliance Data Systems	reports	ADS	Information Technology	Data Processing & Outsourced Services	Plano, Texas		1101215
+Allstate Corp	reports	ALL	Financials	Property & Casualty Insurance	Northfield Township, Illinois		899051
+Altera Corp	reports	ALTR	Information Technology	Semiconductors	San Jose, California		768251
+Altria Group Inc	reports	MO	Consumer Staples	Tobacco	Richmond, Virginia		764180
+Amazon.com Inc	reports	AMZN	Consumer Discretionary	Internet Retail	Seattle, Washington		1018724
+Ameren Corp	reports	AEE	Utilities	Multi-Utilities & Unregulated Power	St. Louis, Missouri		1002910
+American Electric Power	reports	AEP	Utilities	Electric Utilities	Columbus, Ohio		4904
+American Express Co	reports	AXP	Financials	Consumer Finance	New York, New York		4962
+American International Group, Inc.	reports	AIG	Financials	Property & Casualty Insurance	New York, New York		5272
+American Tower Corp A	reports	AMT	Financials	REITs	Boston, Massachusetts		1053507
+Ameriprise Financial	reports	AMP	Financials	Diversified Financial Services	Minneapolis, Minnesota		820027
+AmerisourceBergen Corp	reports	ABC	Health Care	Health Care Distribution & Services	Chesterbrook, Pennsylvania		1140859
+Ametek	reports	AME	Industrials	Electrical Components and Equipment	Berwyn, Pennsylvania	20.09.2013	1037868
+Amgen Inc	reports	AMGN	Health Care	Biotechnology	Thousand Oaks, California		318154
+Amphenol Corp A	reports	APH	Industrials	Electrical Components & Equipment	Wallingford, Connecticut		820313
+Anadarko Petroleum Corp	reports	APC	Energy	Oil & Gas Exploration & Production	The Woodlands, Texas		773910
+Analog Devices, Inc.	reports	ADI	Information Technology	Semiconductors	Norwood, Massachusetts		6281
+Aon plc	reports	AON	Financials	Insurance Brokers	London, United Kingdom		315293
+Apache Corporation	reports	APA	Energy	Oil & Gas Exploration & Production	Houston, Texas		6769
+Apartment Investment & Mgmt	reports	AIV	Financials	REITs	Denver, Colorado		922864
+Apple Inc.	reports	AAPL	Information Technology	Computer Hardware	Cupertino, California		320193
+Applied Materials Inc	reports	AMAT	Information Technology	Semiconductor Equipment	Santa Clara, California		6951
+Archer-Daniels-Midland Co	reports	ADM	Consumer Staples	Agricultural Products	Decatur, Illinois		7084
+Assurant Inc	reports	AIZ	Financials	Multi-line Insurance	New York, New York		1267238
+AT&T Inc	reports	T	Telecommunications Services	Integrated Telecommunications Services	Dallas, Texas		732717
+Autodesk Inc	reports	ADSK	Information Technology	Application Software	San Rafael, California		769397
+Automatic Data Processing	reports	ADP	Information Technology	Internet Software & Services	Roseland, New Jersey		8670
+AutoNation Inc	reports	AN	Consumer Discretionary	Specialty Stores	Fort Lauderdale, Florida		350698
+AutoZone Inc	reports	AZO	Consumer Discretionary	Specialty Stores	Memphis, Tennessee		866787
+Avago Technologies	reports	AVGO	Information Technology	Semiconductors	San Jose, California		1441634
+AvalonBay Communities, Inc.	reports	AVB	Financials	REITs	Arlington, Virginia[1]		915912
+Avery Dennison Corp	reports	AVY	Materials	Paper Packaging	Pasadena, California		8818
+Avon Products	reports	AVP	Consumer Staples	Personal Products	New York, New York		8868
+Baker Hughes Inc	reports	BHI	Energy	Oil & Gas Equipment & Services	Houston, Texas		808362
+Ball Corp	reports	BLL	Materials	Metal & Glass Containers	Broomfield, Colorado		9389
+Bank of America Corp	reports	BAC	Financials	Banks	Charlotte, North Carolina		70858
+The Bank of New York Mellon Corp.	reports	BK	Financials	Banks	New York, New York		1390777
+Bard (C.R.) Inc.	reports	BCR	Health Care	Health Care Equipment & Services	Murray Hill, New Jersey		9892
+Baxter International Inc.	reports	BAX	Health Care	Health Care Equipment & Services	Deerfield, Illinois		10456
+BB&T Corporation	reports	BBT	Financials	Banks	Winston-Salem, North Carolina		92230
+Becton Dickinson	reports	BDX	Health Care	Health Care Equipment & Services	Franklin Lakes, New Jersey		10795
+Bed Bath & Beyond	reports	BBBY	Consumer Discretionary	Specialty Stores	Union, New Jersey		886158
+Bemis Company	reports	BMS	Materials	Paper Packaging	Neenah, Wisconsin		11199
+Berkshire Hathaway	reports	BRK.B	Financials	Multi-Sector Holdings	Omaha, Nebraska		1067983
+Best Buy Co. Inc.	reports	BBY	Consumer Discretionary	Computer & Electronics Retail	Richfield, Minnesota		764478
+BIOGEN IDEC Inc.	reports	BIIB	Health Care	Biotechnology	Weston, Massachusetts		875045
+BlackRock	reports	BLK	Financials	Diversified Financial Services	New York, New York		1364742
+Block H&R	reports	HRB	Financials	Consumer Finance	Kansas City, Missouri		12659
+Boeing Company	reports	BA	Industrials	Aerospace & Defense	Chicago, Illinois		12927
+BorgWarner	reports	BWA	Consumer Discretionary	Auto Parts & Equipment	Auburn Hills, Michigan	16.12.2011	908255
+Boston Properties	reports	BXP	Financials	REITs	Boston, Massachusetts		1037540
+Boston Scientific	reports	BSX	Health Care	Health Care Equipment & Services	Natick, Massachusetts		885725
+Bristol-Myers Squibb	reports	BMY	Health Care	Health Care Distributors & Services	New York, New York		14272
+Broadcom Corporation	reports	BRCM	Information Technology	Semiconductors	Irvine, California		1054374
+Brown-Forman Corporation	reports	BF.B	Consumer Staples	Distillers & Vintners	Louisville, Kentucky		14693
+C. H. Robinson Worldwide	reports	CHRW	Industrials	Air Freight & Logistics	Eden Prairie, Minnesota		1043277
+CA, Inc.	reports	CA	Information Technology	Systems Software	Islandia, New York		356028
+Cablevision Systems Corp.	reports	CVC	Consumer Discretionary	Broadcasting & Cable TV	Bethpage, New York		1053112
+Cabot Oil & Gas	reports	COG	Energy	Oil & Gas Exploration & Production	Houston, Texas		858470
+Cameron International Corp.	reports	CAM	Energy	Oil & Gas Equipment & Services	Houston, Texas		941548
+Campbell Soup	reports	CPB	Consumer Staples	Packaged Foods & Meats	Camden, New Jersey		16732
+Capital One Financial	reports	COF	Financials	Consumer Finance	Tysons Corner, Virginia		927628
+Cardinal Health Inc.	reports	CAH	Health Care	Health Care Distributors & Services	Dublin, Ohio		721371
+Carefusion	reports	CFN	Health Care	Health Care Equipment & Services	San Diego, California[2]		1457543
+Carmax Inc	reports	KMX	Consumer Discretionary	Specialty Stores	Richmond, Virginia		1170010
+Carnival Corp.	reports	CCL	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Miami, Florida		815097
+Caterpillar Inc.	reports	CAT	Industrials	Construction & Farm Machinery & Heavy Trucks	Peoria, Illinois		18230
+CBRE Group	reports	CBG	Financials	Real Estate Management & Development	Los Angeles, California		1138118
+CBS Corp.	reports	CBS	Consumer Discretionary	Broadcasting & Cable TV	New York, New York		813828
+Celgene Corp.	reports	CELG	Health Care	Biotechnology	Summit, New Jersey		816284
+CenterPoint Energy	reports	CNP	Utilities	Multi-Utilities & Unregulated Power	Houston, Texas		1130310
+CenturyLink Inc	reports	CTL	Telecommunications Services	Integrated Telecommunications Services	Monroe, Louisiana		18926
+Cerner	reports	CERN	Health Care	Health Care Distributors & Services	North Kansas City, Missouri		804753
+CF Industries Holdings Inc	reports	CF	Materials	Fertilizers & Agricultural Chemicals	Deerfield, Illinois		1324404
+Charles Schwab	reports	SCHW	Financials	Diversified Financial Services	San Francisco, California		316709
+Chesapeake Energy	reports	CHK	Energy	Integrated Oil & Gas	Oklahoma City, Oklahoma		895126
+Chevron Corp.	reports	CVX	Energy	Integrated Oil & Gas	San Ramon, California		93410
+Chipotle Mexican Grill	reports	CMG	Consumer Discretionary	Restaurants	Denver, Colorado		1058090
+Chubb Corp.	reports	CB	Financials	Property & Casualty Insurance	Warren, New Jersey		20171
+CIGNA Corp.	reports	CI	Health Care	Managed Health Care	Philadelphia, Pennsylvania		701221
+Cincinnati Financial	reports	CINF	Financials	Property & Casualty Insurance	Fairfield, Ohio		20286
+Cintas Corporation	reports	CTAS	Industrials	Diversified Commercial Services	Mason, Ohio		723254
+Cisco Systems	reports	CSCO	Information Technology	Networking Equipment	San Jose, California		858877
+Citigroup Inc.	reports	C	Financials	Banks	New York, New York		831001
+Citrix Systems	reports	CTXS	Information Technology	Internet Software & Services	Fort Lauderdale, Florida		877890
+The Clorox Company	reports	CLX	Consumer Staples	Household Products	Oakland, California		21076
+CME Group Inc.	reports	CME	Financials	Diversified Financial Services	Chicago, Illinois		1156375
+CMS Energy	reports	CMS	Utilities	Multi-Utilities & Unregulated Power	Jackson, Michigan		811156
+Coach Inc.	reports	COH	Consumer Discretionary	Apparel, Accessories & Luxury Goods	New York, New York		1116132
+The Coca Cola Company	reports	KO	Consumer Staples	Soft Drinks	Atlanta, Georgia		21344
+Coca-Cola Enterprises	reports	CCE	Consumer Staples	Soft Drinks	Atlanta, Georgia		1491675
+Cognizant Technology Solutions	reports	CTSH	Information Technology	IT Consulting & Services	Teaneck, New Jersey		1058290
+Colgate-Palmolive	reports	CL	Consumer Staples	Household Products	New York, New York		21665
+Comcast Corp.	reports	CMCSA	Consumer Discretionary	Broadcasting & Cable TV	Philadelphia, Pennsylvania		1166691
+Comerica Inc.	reports	CMA	Financials	Banks	Dallas, Texas		28412
+Computer Sciences Corp.	reports	CSC	Information Technology	IT Consulting & Services	Falls Church, Virginia		23082
+ConAgra Foods Inc.	reports	CAG	Consumer Staples	Packaged Foods & Meats	Omaha, Nebraska		23217
+ConocoPhillips	reports	COP	Energy	Integrated Oil & Gas	Houston, Texas		1163165
+CONSOL Energy Inc.	reports	CNX	Energy	Oil & Gas Exploration & Production	Cecil Township, Pennsylvania		1070412
+Consolidated Edison	reports	ED	Utilities	Multi-Utilities & Unregulated Power	New York, New York		1047862
+Constellation Brands	reports	STZ	Consumer Staples	Distillers & Vintners	Victor, New York		16918
+Corning Inc.	reports	GLW	Industrials	Construction & Engineering	Corning, New York		24741
+Costco Co.	reports	COST	Consumer Staples	Hypermarkets & Super Centers	Issaquah, Washington		909832
+Covidien plc	reports	COV	Health Care	Health Care Equipment & Services	Dublin, Ireland		1385187
+Crown Castle International Corp.	reports	CCI	Financials	REITs	Houston, Texas		1051470
+CSX Corp.	reports	CSX	Industrials	Railroads	Jacksonville, Florida		277948
+Cummins Inc.	reports	CMI	Industrials	Industrial Machinery	Columbus, Indiana		26172
+CVS Caremark Corp.	reports	CVS	Consumer Staples	Drug Retail	Woonsocket, Rhode Island		64803
+D. R. Horton	reports	DHI	Consumer Discretionary	Construction	Fort Worth, Texas		882184
+Danaher Corp.	reports	DHR	Industrials	Industrial Machinery	Washington D.C		313616
+Darden Restaurants	reports	DRI	Consumer Discretionary	Restaurants	Orlando, Florida		940944
+DaVita Inc.	reports	DVA	Health Care	Health Care Facilities	Denver, Colorado		927066
+Deere & Co.	reports	DE	Industrials	Construction & Farm Machinery & Heavy Trucks	Moline, Illinois		315189
+Delphi Automotive	reports	DLPH	Consumer Discretionary	Auto Parts & Equipment	Gillingham, Kent, United Kingdom	24.12.2012	1521332
+Delta Air Lines	reports	DAL	Industrials	Airlines	Atlanta, Georgia	10.09.2013	27904
+Denbury Resources Inc.	reports	DNR	Energy	Oil & Gas Exploration & Production	Plano, Texas		945764
+Dentsply International	reports	XRAY	Health Care	Health Care Supplies	York, Pennsylvania		818479
+Devon Energy Corp.	reports	DVN	Energy	Oil & Gas Exploration & Production	Oklahoma City, Oklahoma		1090012
+Diamond Offshore Drilling	reports	DO	Energy	Oil & Gas Drilling	Houston, Texas		949039
+DirecTV	reports	DTV	Consumer Discretionary	Broadcasting & Cable TV	El Segundo, California		1465112
+Discover Financial Services	reports	DFS	Financials	Consumer Finance	Riverwoods, Illinois		1393612
+Discovery Communications	reports	DISCA	Consumer Discretionary	Broadcasting & Cable TV	Silver Spring, Maryland		1437107
+Dollar General	reports	DG	Consumer Discretionary	General Merchandise Stores	Goodlettsville, Tennessee	03.12.2012	29534
+Dollar Tree	reports	DLTR	Consumer Discretionary	General Merchandise Stores	Chesapeake, Virginia	16.12.2011	935703
+Dominion Resources	reports	D	Utilities	Multi-Utilities & Unregulated Power	Richmond, Virginia		715957
+Dover Corp.	reports	DOV	Industrials	Industrial Machinery	Downers Grove, Illinois		29905
+Dow Chemical	reports	DOW	Materials	Diversified Chemicals	Midland, Michigan		29915
+Dr Pepper Snapple Group	reports	DPS	Consumer Staples	Soft Drinks	Plano, Texas		1418135
+DTE Energy Co.	reports	DTE	Utilities	Multi-Utilities & Unregulated Power	Detroit, Michigan		936340
+Du Pont (E.I.)	reports	DD	Materials	Diversified Chemicals	Wilmington, Delaware		30554
+Duke Energy	reports	DUK	Utilities	Electric Utilities	Charlotte, North Carolina		1326160
+Dun & Bradstreet	reports	DNB	Industrials	Data Processing Services	Short Hills, New Jersey		1115222
+E-Trade	reports	ETFC	Financials	Diversified Financial Services	New York, New York		1015780
+Eastman Chemical	reports	EMN	Materials	Diversified Chemicals	Kingsport, Tennessee		915389
+Eaton Corp. plc	reports	ETN	Industrials	Industrial Conglomerates	Dublin, Ireland		1551182
+eBay Inc.	reports	EBAY	Information Technology	Internet Software & Services	San Jose, California		1065088
+Ecolab Inc.	reports	ECL	Materials	Specialty Chemicals	St. Paul, Minnesota		31462
+Edison Int'l	reports	EIX	Utilities	Multi-Utilities & Unregulated Power	Rosemead, California		827052
+Edwards Lifesciences	reports	EW	Health Care	Health Care Equipment & Services	Irvine, California		1099800
+Electronic Arts	reports	EA	Information Technology	Application Software	Redwood City, California		712515
+EMC Corp.	reports	EMC	Information Technology	IT Consulting & Services	Hopkinton, Massachusetts		790070
+Emerson Electric	reports	EMR	Industrials	Industrial Conglomerates	Ferguson, Missouri		32604
+Ensco plc	reports	ESV	Energy	Oil & Gas Drilling	London, United Kingdom	30.07.2012	314808
+Entergy Corp.	reports	ETR	Utilities	Electric Utilities	New Orleans, Louisiana		65984
+EOG Resources	reports	EOG	Energy	Oil & Gas Exploration & Production	Houston, Texas		821189
+EQT Corporation	reports	EQT	Energy	Oil & Gas Exploration & Production	Pittsburgh, Pennsylvania		33213
+Equifax Inc.	reports	EFX	Financials	Diversified Financial Services	Atlanta, Georgia		33185
+Equity Residential	reports	EQR	Financials	REITs	Chicago, Illinois		906107
+Essex Property Trust Inc	reports	ESS	Financials	Residential REITs	Palo Alto, California		920522
+Estee Lauder Cos.	reports	EL	Consumer Staples	Personal Products	New York, New York		1001250
+Exelon Corp.	reports	EXC	Utilities	Multi-Utilities & Unregulated Power	Chicago, Illinois		1109357
+Expedia Inc.	reports	EXPE	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Bellevue, Washington		1324424
+Expeditors Int'l	reports	EXPD	Industrials	Air Freight & Logistics	Seattle, Washington		746515
+Express Scripts	reports	ESRX	Health Care	Health Care Distributors & Services	Cool Valley, Missouri		1532063
+Exxon Mobil Corp.	reports	XOM	Energy	Integrated Oil & Gas	Irving, Texas		34088
+F5 Networks	reports	FFIV	Information Technology	Networking Equipment	Seattle, Washington		1048695
+Facebook	reports	FB	Information Technology	Internet Software & Services	Menlo Park, California		1326801
+Family Dollar Stores	reports	FDO	Consumer Discretionary	General Merchandise Stores	Matthews, North Carolina		34408
+Fastenal Co	reports	FAST	Industrials	Building Products	Winona, Minnesota		815556
+FedEx Corporation	reports	FDX	Industrials	Air Freight & Logistics	Memphis, Tennessee		1048911
+Fidelity National Information Services	reports	FIS	Information Technology	Internet Software & Services	Jacksonville, Florida		1136893
+Fifth Third Bancorp	reports	FITB	Financials	Banks	Cincinnati, Ohio		35527
+First Solar Inc	reports	FSLR	Energy	Heavy Electrical Equipment	Tempe, Arizona		1274494
+FirstEnergy Corp	reports	FE	Utilities	Multi-Utilities & Unregulated Power	Akron, Ohio		1031296
+Fiserv Inc	reports	FISV	Information Technology	Internet Software & Services	Brookfield, Wisconsin		798354
+FLIR Systems	reports	FLIR	Industrials	Aerospace & Defense	Wilsonville, Oregon		354908
+Flowserve Corporation	reports	FLS	Industrials	Industrial Machinery	Irving, Texas		30625
+Fluor Corp.	reports	FLR	Industrials	Diversified Commercial Services	Irving, Texas		1124198
+FMC Corporation	reports	FMC	Materials	Diversified Chemicals	Philadelphia, Pennsylvania		37785
+FMC Technologies Inc.	reports	FTI	Energy	Oil & Gas Equipment & Services	Houston, Texas		1135152
+Ford Motor	reports	F	Consumer Discretionary	Automobile Manufacturers	Dearborn, Michigan		37996
+Forest Laboratories	reports	FRX	Health Care	Pharmaceuticals	New York, New York		38074
+Fossil, Inc.	reports	FOSL	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Richardson, Texas		883569
+Franklin Resources	reports	BEN	Financials	Diversified Financial Services	San Mateo, California		38777
+Freeport-McMoran Cp & Gld	reports	FCX	Materials	Diversified Metals & Mining	Phoenix, Arizona		831259
+Frontier Communications	reports	FTR	Telecommunications Services	Integrated Telecommunications Services	Stamford, Connecticut		20520
+GameStop Corp.	reports	GME	Consumer Discretionary	Specialty Stores	Grapevine, Texas		1326380
+Gannett Co.	reports	GCI	Consumer Discretionary	Publishing	McLean, Virginia		39899
+Gap (The)	reports	GPS	Consumer Discretionary	Apparel Retail	San Francisco, California		39911
+Garmin Ltd.	reports	GRMN	Consumer Discretionary	Consumer Electronics	Schaffhausen, Switzerland	12.12.2012	1121788
+General Dynamics	reports	GD	Industrials	Aerospace & Defense	Falls Church, Virginia		40533
+General Electric	reports	GE	Energy	Industrial Conglomerates	Fairfield, Connecticut		40545
+General Growth Properties Inc.	reports	GGP	Financials	REITs	Chicago, Illinois	10.12.2013	895648
+General Mills	reports	GIS	Consumer Staples	Packaged Foods & Meats	Golden Valley, Minnesota		40704
+General Motors	reports	GM	Consumer Discretionary	Automobile Manufacturers	Detroit, Michigan	06.06.2013	1467858
+Genuine Parts	reports	GPC	Consumer Discretionary	Specialty Stores	Atlanta, Georgia		40987
+Genworth Financial Inc.	reports	GNW	Financials	Life & Health Insurance	Richmond, Virginia		1276520
+Gilead Sciences	reports	GILD	Health Care	Biotechnology	Foster City, California		882095
+Goldman Sachs Group	reports	GS	Financials	Diversified Financial Services	New York, New York		886982
+Goodyear Tire & Rubber	reports	GT	Consumer Discretionary	Tires & Rubber	Akron, Ohio		42582
+Google Inc.	reports	GOOG	Information Technology	Internet Software & Services	Mountain View, California		1288776
+Google Inc.	reports	GOOGL	Information Technology	Internet Software & Services	Mountain View, California		1288776
+Grainger (W.W.) Inc.	reports	GWW	Industrials	Industrial Materials	Lake Forest, Illinois		277135
+Halliburton Co.	reports	HAL	Energy	Oil & Gas Equipment & Services	Houston, Texas		45012
+Harley-Davidson	reports	HOG	Consumer Discretionary	Motorcycle Manufacturers	Milwaukee, Wisconsin		793952
+Harman Int'l Industries	reports	HAR	Consumer Discretionary	Consumer Electronics	Stamford, Connecticut		800459
+Harris Corporation	reports	HRS	Information Technology	Telecommunications Equipment	Melbourne, Florida		202058
+Hartford Financial Svc.Gp.	reports	HIG	Financials	Property & Casualty Insurance	Hartford, Connecticut		874766
+Hasbro Inc.	reports	HAS	Consumer Discretionary	Leisure Products	Pawtucket, Rhode Island		46080
+HCP Inc.	reports	HCP	Financials	REITs	Long Beach, California		765880
+Health Care REIT, Inc.	reports	HCN	Financials	REITs	Toledo, Ohio[3]		766704
+Helmerich & Payne	reports	HP	Energy	Oil & Gas Drilling	Tulsa, Oklahoma[4]		46765
+Hess Corporation	reports	HES	Energy	Integrated Oil & Gas	New York, New York		4447
+Hewlett-Packard	reports	HPQ	Information Technology	Computer Hardware	Palo Alto, California		47217
+Home Depot	reports	HD	Consumer Discretionary	Home Improvement Retail	Cobb County, Georgia		354950
+Honeywell Int'l Inc.	reports	HON	Industrials	Industrial Conglomerates	Morristown, New Jersey		773840
+Hormel Foods Corp.	reports	HRL	Consumer Staples	Packaged Foods & Meats	Austin, Minnesota		48465
+Hospira Inc.	reports	HSP	Health Care	Health Care Equipment & Services	Lake Forest, Illinois		1274057
+Host Hotels & Resorts	reports	HST	Financials	REITs	Bethesda, Maryland		1070750
+Hudson City Bancorp	reports	HCBK	Financials	Banks	Paramus, New Jersey		921847
+Humana Inc.	reports	HUM	Health Care	Managed Health Care	Louisville, Kentucky		49071
+Huntington Bancshares	reports	HBAN	Financials	Banks	Columbus, Ohio		49196
+Illinois Tool Works	reports	ITW	Industrials	Industrial Machinery	Glenview, Illinois		49826
+Ingersoll-Rand PLC	reports	IR	Industrials	Industrial Conglomerates	Dublin, Ireland		1466258
+Integrys Energy Group Inc.	reports	TEG	Utilities	Gas Utilities	Chicago, Illinois		916863
+Intel Corp.	reports	INTC	Information Technology	Semiconductors	Santa Clara, California		50863
+IntercontinentalExchange Inc.	reports	ICE	Financials	Diversified Financial Services	Atlanta, Georgia		1571949
+International Bus. Machines	reports	IBM	Information Technology	IT Consulting & Services	Armonk, New York		51143
+International Game Technology	reports	IGT	Consumer Discretionary	Leisure Products	Reno, Nevada		353944
+International Paper	reports	IP	Materials	Paper Products	Memphis, Tennessee		51434
+Interpublic Group	reports	IPG	Consumer Discretionary	Advertising	New York, New York		51644
+Intl Flavors & Fragrances	reports	IFF	Materials	Specialty Chemicals	New York, New York		51253
+Intuit Inc.	reports	INTU	Information Technology	Internet Software & Services	Mountain View, California	05.12.2000	896878
+Intuitive Surgical Inc.	reports	ISRG	Health Care	Health Care Equipment & Services	Sunnyvale, California		1035267
+Invesco Ltd.	reports	IVZ	Financials	Diversified Financial Services	Atlanta, Georgia		914208
+Iron Mountain Incorporated	reports	IRM	Industrials	Data Processing Services	Boston, Massachusetts		1020569
+Jabil Circuit	reports	JBL	Information Technology	IT Consulting & Services	St. Petersburg, Florida		898293
+Jacobs Engineering Group	reports	JEC	Industrials	Industrial Conglomerates	Pasadena, California		52988
+Johnson & Johnson	reports	JNJ	Health Care	Health Care Equipment & Services	New Brunswick, New Jersey		200406
+Johnson Controls	reports	JCI	Consumer Discretionary	Auto Parts & Equipment	Milwaukee, Wisconsin		53669
+Joy Global Inc.	reports	JOY	Industrials	Industrial Machinery	Milwaukee, Wisconsin		801898
+JPMorgan Chase & Co.	reports	JPM	Financials	Banks	New York, New York		19617
+Juniper Networks	reports	JNPR	Information Technology	Networking Equipment	Sunnyvale, California		1043604
+Kansas City Southern	reports	KSU	Industrials	Railroads	Kansas City, Missouri	24.05.2013	54480
+Kellogg Co.	reports	K	Consumer Staples	Packaged Foods & Meats	Battle Creek, Michigan		55067
+KeyCorp	reports	KEY	Financials	Banks	Cleveland, Ohio		91576
+Keurig Green Mountain	reports	GMCR	Consumer Staples	Packaged Foods & Meats	Waterbury, Vermont		909954
+Kimberly-Clark	reports	KMB	Consumer Staples	Household Products	Irving, Texas		55785
+Kimco Realty	reports	KIM	Financials	REITs	New Hyde Park, New York		879101
+Kinder Morgan	reports	KMI	Energy	Oil & Gas Refining & Marketing & Transportation	Houston, Texas	24.05.2012	1506307
+KLA-Tencor Corp.	reports	KLAC	Information Technology	Semiconductor Equipment	Milpitas, California		319201
+Kohl's Corp.	reports	KSS	Consumer Discretionary	General Merchandise Stores	Menomonee Falls, Wisconsin		885639
+Kraft Foods Group	reports	KRFT	Consumer Staples	Packaged Foods & Meats	Northfield, Illinois	02.10.2012	1545158
+Kroger Co.	reports	KR	Consumer Staples	Food Retail	Cincinnati, Ohio		56873
+L Brands Inc.	reports	LB	Consumer Discretionary	Apparel Retail	Columbus, Ohio		701985
+L-3 Communications Holdings	reports	LLL	Industrials	Industrial Conglomerates	New York, New York		1056239
+Laboratory Corp. of America Holding	reports	LH	Health Care	Health Care Facilities	Burlington, North Carolina		920148
+Lam Research	reports	LRCX	Information Technology	Semiconductor Equipment	Fremont, California		707549
+Legg Mason	reports	LM	Financials	Diversified Financial Services	Baltimore, Maryland		704051
+Leggett & Platt	reports	LEG	Industrials	Industrial Conglomerates	Carthage, Missouri		58492
+Lennar Corp.	reports	LEN	Consumer Discretionary	Homebuilding	Miami, Florida		920760
+Leucadia National Corp.	reports	LUK	Financials	Multi-Sector Holdings	New York, New York		96223
+Lilly (Eli) & Co.	reports	LLY	Health Care	Pharmaceuticals	Indianapolis, Indiana		59478
+Lincoln National	reports	LNC	Financials	Multi-line Insurance	Radnor, Pennsylvania		59558
+Linear Technology Corp.	reports	LLTC	Information Technology	Semiconductors	Milpitas, California		791907
+Lockheed Martin Corp.	reports	LMT	Industrials	Aerospace & Defense	Bethesda, Maryland		936468
+Loews Corp.	reports	L	Financials	Multi-Sector Holdings	New York, New York		60086
+Lorillard Inc.	reports	LO	Consumer Staples	Tobacco	Greensboro, North Carolina		1424847
+Lowe's Cos.	reports	LOW	Consumer Discretionary	Home Improvement Retail	Mooresville, North Carolina		60667
+LyondellBasell	reports	LYB	Materials	Diversified Chemicals	Rotterdam, Netherlands	05.09.2012	1489393
+M&T Bank Corp.	reports	MTB	Financials	Banks	Buffalo, New York		36270
+Macerich	reports	MAC	Financials	Retail REITs	Santa Monica, California	09.05.2013	912242
+Macy's Inc.	reports	M	Consumer Discretionary	Department Stores	Cincinnati, Ohio		794367
+3M Company	reports	MMM	Industrials	Industrial Conglomerates	St. Paul, Minnesota		66740
+Marathon Oil Corp.	reports	MRO	Energy	Oil & Gas Exploration & Production	Houston, Texas		101778
+Marathon Petroleum	reports	MPC	Energy	Oil & Gas Refining & Marketing & Transportation	Findlay, Ohio		1510295
+Marriott Int'l.	reports	MAR	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Bethesda, Maryland		1048286
+Marsh & McLennan	reports	MMC	Financials	Insurance Brokers	New York, New York		62709
+Masco Corp.	reports	MAS	Industrials	Building Products	Taylor, Michigan		62996
+Mastercard Inc.	reports	MA	Information Technology	Internet Software & Services	Harrison, New York		1141391
+Mattel Inc.	reports	MAT	Consumer Discretionary	Leisure Products	El Segundo, California		63276
+McCormick & Co.	reports	MKC	Consumer Staples	Packaged Foods & Meats	Sparks, Maryland		63754
+McDonald's Corp.	reports	MCD	Consumer Discretionary	Restaurants	Oak Brook, Illinois		63908
+McGraw Hill Financial	reports	MHFI	Financials	Diversified Financial Services	New York, New York		64040
+McKesson Corp.	reports	MCK	Health Care	Health Care Distributors & Services	San Francisco, California		927653
+Mead Johnson	reports	MJN	Consumer Staples	Packaged Foods & Meats	Glenview, Illinois		1452575
+MeadWestvaco Corporation	reports	MWV	Materials	Paper Packaging	Richmond, Virginia		1159297
+Medtronic Inc.	reports	MDT	Health Care	Health Care Equipment & Services	Fridley, Minnesota		64670
+Merck & Co.	reports	MRK	Health Care	Pharmaceuticals	Whitehouse Station, New Jersey		310158
+MetLife Inc.	reports	MET	Financials	Life & Health Insurance	New York, New York		1099219
+Microchip Technology	reports	MCHP	Information Technology	Semiconductors	Chandler, Arizona		827054
+Micron Technology	reports	MU	Information Technology	Semiconductors	Boise, Idaho		723125
+Microsoft Corp.	reports	MSFT	Information Technology	Systems Software	Redmond, Washington		789019
+Mohawk Industries	reports	MHK	Consumer Discretionary	Home Furnishings	Amsterdam, New York		851968
+Molson Coors Brewing Company	reports	TAP	Consumer Staples	Brewers	Denver, Colorado		24545
+Mondelez International	reports	MDLZ	Consumer Staples	Packaged Foods & Meats	Northfield, Illinois	02.10.2012	1103982
+Monsanto Co.	reports	MON	Materials	Fertilizers & Agricultural Chemicals	Creve Coeur, Missouri		1110783
+Monster Beverage	reports	MNST	Consumer Staples	Soft Drinks	Corona, California	28.06.2012	865752
+Moody's Corp	reports	MCO	Financials	Diversified Financial Services	New York, New York		1059556
+Morgan Stanley	reports	MS	Financials	Diversified Financial Services	New York, New York		895421
+The Mosaic Company	reports	MOS	Materials	Fertilizers & Agricultural Chemicals	Plymouth, Minnesota		1285785
+Motorola Solutions Inc.	reports	MSI	Information Technology	Telecommunications Equipment	Schaumburg, Illinois		68505
+Murphy Oil	reports	MUR	Energy	Integrated Oil & Gas	El Dorado, Arkansas		717423
+Mylan Inc.	reports	MYL	Health Care	Pharmaceuticals	Canonsburg, Pennsylvania		69499
+Nabors Industries Ltd.	reports	NBR	Energy	Oil & Gas Drilling	Hamilton, Bermuda		1163739
+NASDAQ OMX Group	reports	NDAQ	Financials	Diversified Financial Services	New York, New York		1120193
+National Oilwell Varco Inc.	reports	NOV	Energy	Oil & Gas Equipment & Services	Houston, Texas		1021860
+Navient Corp	reports	NAVI	Financials	Consumer Finance	Newark, Delaware		1084750
+NetApp	reports	NTAP	Information Technology	Internet Software & Services	Sunnyvale, California		1002047
+Netflix Inc.	reports	NFLX	Information Technology	Internet Software & Services	Los Gatos, California		1065280
+Newell Rubbermaid Co.	reports	NWL	Consumer Discretionary	Housewares & Specialties	Sandy Springs, Georgia		814453
+Newfield Exploration Co	reports	NFX	Energy	Oil & Gas Exploration & Production	Houston, Texas		912750
+Newmont Mining Corp. (Hldg. Co.)	reports	NEM	Materials	Gold	Denver, Colorado		1164727
+News Corporation	reports	NWSA	Consumer Discretionary	Publishing	New York, New York		1564708
+NextEra Energy	reports	NEE	Utilities	Multi-Utilities & Unregulated Power	Juno Beach, Florida		753308
+Nielsen Holdings	reports	NLSN	Industrials	Research & Consulting Services	New York, New York	08.07.2013	1492633
+NIKE Inc.	reports	NKE	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Washington County, Oregon		320187
+NiSource Inc.	reports	NI	Utilities	Multi-Utilities & Unregulated Power	Merrillville, Indiana		1111711
+Noble Corp	reports	NE	Energy	Oil & Gas Drilling	Geneva, Switzerland		1458891
+Noble Energy Inc	reports	NBL	Energy	Oil & Gas Exploration & Production	Houston, Texas		72207
+Nordstrom	reports	JWN	Consumer Discretionary	Department Stores	Seattle, Washington		72333
+Norfolk Southern Corp.	reports	NSC	Industrials	Railroads	Norfolk, Virginia		702165
+Northern Trust Corp.	reports	NTRS	Financials	Diversified Financial Services	Chicago, Illinois		73124
+Northrop Grumman Corp.	reports	NOC	Industrials	Aerospace & Defense	West Falls Church, Virginia		1133421
+Northeast Utilities	reports	NU	Utilities	Multi-Utilities & Unregulated Power	Berlin, Connecticut		72741
+NRG Energy	reports	NRG	Utilities	Multi-Utilities & Unregulated Power	Princeton, New Jersey		1013871
+Nucor Corp.	reports	NUE	Materials	Steel	Charlotte, North Carolina		73309
+Nvidia Corporation	reports	NVDA	Information Technology	Semiconductors	Santa Clara, California		1045810
+Michael Kors	reports	KORS	Consumer Discretionary	Apparel, Accessories & Luxury Goods	New York, New York		1530721
+O'Reilly Automotive	reports	ORLY	Consumer Discretionary	Specialty Stores	Springfield, Missouri		898173
+Occidental Petroleum	reports	OXY	Energy	Oil & Gas Exploration & Production	Los Angeles, California		797468
+Omnicom Group	reports	OMC	Consumer Discretionary	Advertising	New York, New York		29989
+ONEOK	reports	OKE	Energy	Oil & Gas Exploration & Production	Tulsa, Oklahoma		1039684
+Oracle Corp.	reports	ORCL	Information Technology	Application Software	Redwood Shores, California		1341439
+Owens-Illinois Inc	reports	OI	Materials	Metal & Glass Containers	Perrysburg, Ohio		812074
+P G & E Corp.	reports	PCG	Utilities	Multi-Utilities & Unregulated Power	San Francisco, California		1004980
+PACCAR Inc.	reports	PCAR	Industrials	Construction & Farm Machinery & Heavy Trucks	Bellevue, Washington		75362
+Pall Corp.	reports	PLL	Industrials	Industrial Conglomerates	Port Washington, New York		75829
+Parker-Hannifin	reports	PH	Industrials	Industrial Conglomerates	Cleveland, Ohio		76334
+Patterson Companies	reports	PDCO	Health Care	Health Care Supplies	St. Paul, Minnesota		891024
+Paychex Inc.	reports	PAYX	Information Technology	Internet Software & Services	Penfield, New York		723531
+Peabody Energy	reports	BTU	Energy	Oil & Gas Exploration & Production	St. Louis, Missouri		1064728
+Pentair Ltd.	reports	PNR	Industrials	Industrial Conglomerates	Schaffhausen, Switzerland	01.10.2012	77360
+People's United Bank	reports	PBCT	Financials	Banks	Bridgeport, Connecticut		1378946
+Pepco Holdings Inc.	reports	POM	Utilities	Multi-Utilities & Unregulated Power	Washington D.C		1135971
+PepsiCo Inc.	reports	PEP	Consumer Staples	Soft Drinks	Purchase, New York		77476
+PerkinElmer	reports	PKI	Health Care	Health Care Equipment & Services	Waltham, Massachusetts		31791
+Perrigo	reports	PRGO	Health Care	Pharmaceuticals	Dublin, Ireland	16.12.2011	1585364
+PetSmart, Inc.	reports	PETM	Consumer Discretionary	Specialty Stores	Phoenix, Arizona	10.10.2012	863157
+Pfizer Inc.	reports	PFE	Health Care	Pharmaceuticals	New York, New York		78003
+Philip Morris International	reports	PM	Consumer Staples	Tobacco	New York, New York		1413329
+Phillips 66	reports	PSX	Energy	Oil & Gas Refining & Marketing & Transportation	Houston, Texas	30.04.2012	1534701
+Pinnacle West Capital	reports	PNW	Utilities	Multi-Utilities & Unregulated Power	Phoenix, Arizona		764622
+Pioneer Natural Resources	reports	PXD	Energy	Oil & Gas Exploration & Production	Irving, Texas		1038357
+Pitney-Bowes	reports	PBI	Industrials	Data Processing Services	Stamford, Connecticut		78814
+Plum Creek Timber Co.	reports	PCL	Financials	REITs	Seattle, Washington		849213
+PNC Financial Services	reports	PNC	Financials	Banks	Pittsburgh, Pennsylvania		713676
+Polo Ralph Lauren Corp.	reports	RL	Consumer Discretionary	Apparel, Accessories & Luxury Goods	New York, New York		1037038
+PPG Industries	reports	PPG	Materials	Diversified Chemicals	Pittsburgh, Pennsylvania		79879
+PPL Corp.	reports	PPL	Utilities	Multi-Utilities & Unregulated Power	Allentown, Pennsylvania		922224
+Praxair Inc.	reports	PX	Materials	Industrial Gases	Danbury, Connecticut		884905
+Precision Castparts	reports	PCP	Industrials	Industrial Conglomerates	Portland, Oregon		79958
+Priceline.com Inc	reports	PCLN	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Norwalk, Connecticut		1075531
+Principal Financial Group	reports	PFG	Financials	Diversified Financial Services	Des Moines, Iowa		1126328
+Procter & Gamble	reports	PG	Consumer Staples	Personal Products	Cincinnati, Ohio		80424
+Progressive Corp.	reports	PGR	Financials	Property & Casualty Insurance	Mayfield Village, Ohio		80661
+Prologis	reports	PLD	Financials	Diversified Financial Services	San Francisco, California		1045609
+Prudential Financial	reports	PRU	Financials	Diversified Financial Services	Newark, New Jersey		1137774
+Public Serv. Enterprise Inc.	reports	PEG	Utilities	Multi-Utilities & Unregulated Power	Newark, New Jersey		788784
+Public Storage	reports	PSA	Financials	REITs	Glendale, California		1393311
+Pulte Homes Inc.	reports	PHM	Consumer Discretionary	Homebuilding	Bloomfield Hills, Michigan		822416
+PVH Corp.	reports	PVH	Consumer Discretionary	Apparel, Accessories & Luxury Goods	New York, New York	15.02.2013	78239
+QEP Resources	reports	QEP	Energy	Oil & Gas Exploration & Production	Denver, Colorado[5]		1108827
+Quanta Services Inc.	reports	PWR	Industrials	Industrial Conglomerates	Houston, Texas		1050915
+QUALCOMM Inc.	reports	QCOM	Information Technology	Semiconductors	San Diego, California		804328
+Quest Diagnostics	reports	DGX	Health Care	Health Care Facilities	Madison, New Jersey		1022079
+Range Resources Corp.	reports	RRC	Energy	Oil & Gas Exploration & Production	Fort Worth, Texas		315852
+Raytheon Co.	reports	RTN	Industrials	Aerospace & Defense	Waltham, Massachusetts		1047122
+Red Hat Inc.	reports	RHT	Information Technology	Systems Software	Raleigh, North Carolina		1087423
+Regeneron	reports	REGN	Health Care	Biotechnology	Tarrytown, New York	01.05.2013	872589
+Regions Financial Corp.	reports	RF	Financials	Diversified Financial Services	Birmingham, Alabama		1281761
+Republic Services Inc	reports	RSG	Industrials	Industrial Conglomerates	Phoenix, Arizona		1060391
+Reynolds American Inc.	reports	RAI	Consumer Staples	Tobacco	Winston-Salem, North Carolina		1275283
+Robert Half International	reports	RHI	Industrials	Industrial Conglomerates	Menlo Park, California		315213
+Rockwell Automation Inc.	reports	ROK	Industrials	Industrial Conglomerates	Milwaukee, Wisconsin		1024478
+Rockwell Collins	reports	COL	Industrials	Industrial Conglomerates	Cedar Rapids, Iowa		1137411
+Roper Industries	reports	ROP	Industrials	Industrial Conglomerates	Sarasota, Florida		882835
+Ross Stores	reports	ROST	Consumer Discretionary	Apparel Retail	Pleasanton, California		745732
+Rowan Cos.	reports	RDC	Energy	Oil & Gas Drilling	Houston, Texas		85408
+Ryder System	reports	R	Industrials	Industrial Conglomerates	Miami, Florida		85961
+Safeway Inc.	reports	SWY	Consumer Staples	Food Retail	Pleasanton, California		86144
+Salesforce.com	reports	CRM	Information Technology	Internet Software & Services	San Francisco, California		1108524
+SanDisk Corporation	reports	SNDK	Information Technology	Computer Storage & Peripherals	Milpitas, California		1000180
+SCANA Corp	reports	SCG	Utilities	Multi-Utilities & Unregulated Power	Cayce, South Carolina		754737
+Schlumberger Ltd.	reports	SLB	Energy	Oil & Gas Equipment & Services	Houston, Texas		87347
+Scripps Networks Interactive Inc.	reports	SNI	Consumer Discretionary	Broadcasting & Cable TV	Cincinnati, Ohio		1430602
+Seagate Technology	reports	STX	Information Technology	Computer Storage & Peripherals	Dublin, Ireland	29.06.2012	1137789
+Sealed Air Corp.(New)	reports	SEE	Materials	Paper Packaging	Elmwood Park, New Jersey		1012100
+Sempra Energy	reports	SRE	Utilities	Multi-Utilities & Unregulated Power	San Diego, California		1032208
+Sherwin-Williams	reports	SHW	Materials	Specialty Chemicals	Cleveland, Ohio		89800
+Sigma-Aldrich	reports	SIAL	Materials	Diversified Chemicals	St. Louis, Missouri		90185
+Simon Property Group Inc	reports	SPG	Financials	REITs	Indianapolis, Indiana		1063761
+Smucker (J.M.)	reports	SJM	Consumer Staples	Packaged Foods & Meats	Orrville, Ohio		91419
+Snap-On Inc.	reports	SNA	Consumer Discretionary	Household Appliances	Kenosha, Wisconsin		91440
+Southern Co.	reports	SO	Utilities	Multi-Utilities & Unregulated Power	Atlanta, Georgia		92122
+Southwest Airlines	reports	LUV	Industrials	Airlines	Dallas, Texas		92380
+Southwestern Energy	reports	SWN	Energy	Oil & Gas Exploration & Production	Houston, Texas[6]		7332
+Spectra Energy Corp.	reports	SE	Energy	Oil & Gas Refining & Marketing & Transportation	Houston, Texas		1373835
+St Jude Medical	reports	STJ	Health Care	Health Care Equipment & Services	Little Canada, Minnesota		203077
+Stanley Black & Decker	reports	SWK	Consumer Discretionary	Household Appliances	New Britain, Connecticut		93556
+Staples Inc.	reports	SPLS	Consumer Discretionary	Specialty Stores	Framingham, Massachusetts		791519
+Starbucks Corp.	reports	SBUX	Consumer Discretionary	Restaurants	Seattle, Washington		829224
+Starwood Hotels & Resorts	reports	HOT	Consumer Discretionary	Hotels, Resorts & Cruise Lines	White Plains, New York		316206
+State Street Corp.	reports	STT	Financials	Diversified Financial Services	Boston, Massachusetts		93751
+Stericycle Inc	reports	SRCL	Industrials	Industrial Conglomerates	Lake Forest, Illinois		861878
+Stryker Corp.	reports	SYK	Health Care	Health Care Equipment & Services	Kalamazoo, Michigan		310764
+SunTrust Banks	reports	STI	Financials	Banks	Atlanta, Georgia		750556
+Symantec Corp.	reports	SYMC	Information Technology	Application Software	Mountain View, California		849399
+Sysco Corp.	reports	SYY	Consumer Staples	Food Distributors	Houston, Texas		96021
+T. Rowe Price Group	reports	TROW	Financials	Diversified Financial Services	Baltimore, Maryland		1113169
+Target Corp.	reports	TGT	Consumer Discretionary	General Merchandise Stores	Minneapolis, Minnesota		27419
+TE Connectivity Ltd.	reports	TEL	Information Technology	Electronic Equipment & Instruments	Schaffhausen, Switzerland		1385157
+TECO Energy	reports	TE	Utilities	Multi-Utilities & Unregulated Power	Tampa, Florida		350563
+Tenet Healthcare Corp.	reports	THC	Health Care	Health Care Facilities	Dallas, Texas		70318
+Teradata Corp.	reports	TDC	Information Technology	Application Software	Miamisburg, Ohio		816761
+Tesoro Petroleum Co.	reports	TSO	Energy	Oil & Gas Refining & Marketing & Transportation	San Antonio, Texas		50104
+Texas Instruments	reports	TXN	Information Technology	Semiconductors	Dallas, Texas		97476
+Textron Inc.	reports	TXT	Industrials	Industrial Conglomerates	Providence, Rhode Island		217346
+The Hershey Company	reports	HSY	Consumer Staples	Packaged Foods & Meats	Hershey, Pennsylvania		47111
+The Travelers Companies Inc.	reports	TRV	Financials	Property & Casualty Insurance	New York, New York		86312
+Thermo Fisher Scientific	reports	TMO	Health Care	Health Care Equipment & Services	Waltham, Massachusetts		97745
+Tiffany & Co.	reports	TIF	Consumer Discretionary	Apparel, Accessories & Luxury Goods	New York, New York		98246
+Time Warner Inc.	reports	TWX	Consumer Discretionary	Broadcasting & Cable TV	New York, New York		1105705
+Time Warner Cable Inc.	reports	TWC	Consumer Discretionary	Broadcasting & Cable TV	New York, New York		1377013
+TJX Companies Inc.	reports	TJX	Consumer Discretionary	Apparel Retail	Framingham, Massachusetts		109198
+Torchmark Corp.	reports	TMK	Financials	Life & Health Insurance	McKinney, Texas		320335
+Total System Services	reports	TSS	Information Technology	Internet Software & Services	Columbus, Georgia		721683
+Tractor Supply Company	reports	TSCO	Consumer Discretionary	Specialty Retail	Brentwood, Tennessee		916365
+Transocean	reports	RIG	Energy	Oil & Gas Drilling	Vernier, Switzerland	28.10.2013	1451505
+TripAdvisor	reports	TRIP	Consumer Discretionary	Internet Retail	Newton, Massachusetts		1526520
+Twenty-First Century Fox	reports	FOXA	Consumer Discretionary	Publishing	New York, New York	01.07.2013	1308161
+Tyson Foods	reports	TSN	Consumer Staples	Packaged Foods & Meats	Springdale, Arkansas		100493
+Tyco International	reports	TYC	Industrials	Industrial Conglomerates	Schaffhausen, Switzerland		833444
+U.S. Bancorp	reports	USB	Financials	Banks	Minneapolis, Minnesota		36104
+Under Armour	reports	UA	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Baltimore, Maryland		1336917
+Union Pacific	reports	UNP	Industrials	Railroads	Omaha, Nebraska		100885
+United Health Group Inc.	reports	UNH	Health Care	Managed Health Care	Minnetonka, Minnesota		731766
+United Parcel Service	reports	UPS	Industrials	Air Freight & Logistics	Atlanta, Georgia		1090727
+United States Steel Corp.	reports	X	Materials	Steel	Pittsburgh, Pennsylvania		1163302
+United Technologies	reports	UTX	Industrials	Industrial Conglomerates	Hartford, Connecticut		101829
+Unum Group	reports	UNM	Financials	Diversified Financial Services	Chattanooga, Tennessee		5513
+Urban Outfitters	reports	URBN	Consumer Discretionary	Apparel Retail	Philadelphia, Pennsylvania		912615
+V.F. Corp.	reports	VFC	Consumer Discretionary	Apparel, Accessories & Luxury Goods	Greensboro, North Carolina		103379
+Valero Energy	reports	VLO	Energy	Oil & Gas Refining & Marketing & Transportation	San Antonio, Texas		1035002
+Varian Medical Systems	reports	VAR	Health Care	Health Care Equipment & Services	Palo Alto, California		203527
+Ventas Inc	reports	VTR	Financials	Diversified Financial Services	Chicago, Illinois		740260
+Verisign Inc.	reports	VRSN	Information Technology	Internet Software & Services	Dulles, Virginia		1014473
+Verizon Communications	reports	VZ	Telecommunications Services	Integrated Telecommunications Services	New York, New York		732712
+Vertex Pharmaceuticals Inc	reports	VRTX	Health Care	Biotechnology	Cambridge, Massachusetts	20.09.2013	875320
+Viacom Inc.	reports	VIAB	Consumer Discretionary	Broadcasting & Cable TV	New York, New York		1339947
+Visa Inc.	reports	V	Information Technology	Internet Software & Services	San Francisco, California		1403161
+Vornado Realty Trust	reports	VNO	Financials	REITs	New York, New York		899689
+Vulcan Materials	reports	VMC	Materials	Construction Materials	Birmingham, Alabama		1396009
+Wal-Mart Stores	reports	WMT	Consumer Staples	Hypermarkets & Super Centers	Bentonville, Arkansas		104169
+Walgreen Co.	reports	WAG	Consumer Staples	Drug Retail	Deerfield, Illinois		104207
+The Walt Disney Company	reports	DIS	Consumer Discretionary	Broadcasting & Cable TV	Burbank, California		1001039
+Graham Holdings Company	reports	GHC	Consumer Discretionary	Publishing	Washington D.C		104889
+Waste Management Inc.	reports	WM	Industrials	Environmental Services	Houston, Texas		823768
+Waters Corporation	reports	WAT	Health Care	Health Care Distributors & Services	Milford, Massachusetts		1000697
+WellPoint Inc.	reports	WLP	Health Care	Managed Health Care	Indianapolis, Indiana		1156039
+Wells Fargo	reports	WFC	Financials	Banks	San Francisco, California		72971
+Western Digital	reports	WDC	Information Technology	Computer Storage & Peripherals	Irvine, California		106040
+Western Union Co	reports	WU	Information Technology	Internet Software & Services	Englewood, Colorado		1365135
+Weyerhaeuser Corp.	reports	WY	Financials	REITs	Federal Way, Washington		106535
+Whirlpool Corp.	reports	WHR	Consumer Discretionary	Household Appliances	Benton Harbor, Michigan		106640
+Whole Foods Market	reports	WFM	Consumer Staples	Food Retail	Austin, Texas		865436
+Williams Cos.	reports	WMB	Energy	Oil & Gas Exploration & Production	Tulsa, Oklahoma		107263
+Windstream Communications	reports	WIN	Telecommunications Services	Integrated Telecommunications Services	Little Rock, Arkansas		1282266
+Wisconsin Energy Corporation	reports	WEC	Utilities	Multi-Utilities & Unregulated Power	Milwaukee, Wisconsin		783325
+Wyndham Worldwide	reports	WYN	Consumer Discretionary	Hotels, Resorts & Cruise Lines	Parsippany, New Jersey		1361658
+Wynn Resorts Ltd	reports	WYNN	Consumer Discretionary	Casinos & Gaming	Las Vegas, Nevada		1174922
+Xcel Energy Inc	reports	XEL	Utilities	Multi-Utilities & Unregulated Power	Minneapolis, Minnesota		72903
+Xerox Corp.	reports	XRX	Information Technology	IT Consulting & Services	Norwalk, Connecticut		108772
+Xilinx Inc	reports	XLNX	Information Technology	Semiconductors	San Jose, California		743988
+XL Capital	reports	XL	Financials	Property & Casualty Insurance	Hamilton, Bermuda		875159
+Xylem Inc.	reports	XYL	Industrials	Industrial Conglomerates	White Plains, New York		1524472
+Yahoo Inc.	reports	YHOO	Information Technology	Internet Software & Services	Sunnyvale, California		1011006
+Yum! Brands Inc	reports	YUM	Consumer Discretionary	Restaurants	Louisville, Kentucky		1041061
+Zimmer Holdings	reports	ZMH	Health Care	Health Care Equipment & Services	Warsaw, Indiana		1136869
+Zions Bancorp	reports	ZION	Financials	Banks	Salt Lake City, Utah		109380
+Zoetis	reports	ZTS	Health Care	Pharmaceuticals	Florham Park, New Jersey		1555280

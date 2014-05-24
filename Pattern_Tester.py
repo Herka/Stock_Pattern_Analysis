@@ -3,11 +3,9 @@ import pandas.io.data
 from pandas import DataFrame
 import time
 import datetime
+import matplotlib.pyplot as plt
 
-
-file = open("DAX_30Pattern_10_Future_2000_to_2010.txt", "r")
-readFile = file.read().split("\n")
-
+totalStart = time.time()
 
 #pattern Array sichert die Pattern, futureOutcome Array die zukunftswerte. Da beide Listen eine identische Laenge haben lassen sich die passenden Werte einfach per "index" befehl finden 
 patternAr = []
@@ -15,28 +13,15 @@ futureOutcomeAr = []
 
 symbols = []
 company_name = []
+#DAX oder SP500 Stocks
 file = open("DAX_Symbols.txt", "r")
+#file = open("SP500_Symbols.txt", "r")
 symbFile = file.read().split("\n")
 for line in symbFile[1:]:
     line = line.split("\t")
     symbols.append(line[2])
     company_name.append(line[0])
 
-
-for line in readFile:
-    try:
-        pattern, futureOutcome = line.split(";")
-        pattern = pattern.split(",")
-        #str to float
-        floatlist = []
-        for pat in pattern:
-            pat = float(pat)
-            floatlist.append(pat)
-        patternAr.append(floatlist)
-        futureOutcomeAr.append(float(futureOutcome))
-    except ValueError:
-        continue
-    
 def percentChange(startpoint, currentPoint):
     try:
         x = ((float(currentPoint-startpoint))/abs(startpoint))*100
@@ -67,71 +52,148 @@ def patternRecognition():
     
     #gleicht ALLE pattern in der patternAr ab.
     #similarity ist einfache prozent aehnlichkeit, bietet viel spielraum fuer verbesserung!
-    for eachPattern in patternAr:
-        sim = 0
-        for i in range(0,30):
-            
-            sim += 100.00 - abs(percentChange(eachPattern[i], curPat[i]))
-            
-        
-        simResult = sim/30
+    
 
-        
-        if simResult >75:
-            patternFound = 1
-            #index des Patterns finden, damit aus der future Outcom Array das passende Zukunftswert gezogen werden kann
-            patdex = patternAr.index(eachPattern)
-            predictedOutcome = futureOutcomeAr[patdex]
+    #with open("DAX_30Pattern_10_Future_2000_to_2010.txt") as file:
+    with open("Test_DAX_Pattern.txt") as file:
+        for line in file:
             
-            simPattern.append(eachPattern)
-            simPatternOutcome.append(predictedOutcome)
+            
+            try:
+                pattern, futureOutcome = line.split(";")
+                pattern = pattern.split(",")
+                #str to float
+                eachPattern = []
+                for pat in pattern:
+                    pat = float(pat)
+                    eachPattern.append(pat)
+                
+                futureOutcome = float(futureOutcome)
+                
+            except ValueError:
+                continue
+            
+            
+            
+            sim = 0
+            for i in range(0,30):
+                
+                sim += 100.00 - abs(percentChange(eachPattern[i], curPat[i]))
+                
+            
+            simResult = sim/30
+    
+            
+            if simResult >75:
+                patternFound = 1
+                   
+                simPattern.append(eachPattern)
+                simPatternOutcome.append(futureOutcome)
+            
+            xp = []
+            for i in range(1,31):
+                i = abs(31-i)
+                xp.append(i)
+            
             
     predDirection = []       
     if patternFound == 1:
         
-        #pattern weiter verarbeiten, plotten etc.
-        #for i in simPattern:
+        
+        
+        
+        
+        fig = plt.figure(figsize=(20,10))
+        
+         
+
+        
+            
+            
         for predictedOutcome in simPatternOutcome:
             
             #wenn das predictedOutcome groesser ist als der letzte Punkt im aktuellen Pattern
             #---> steigt
             if predictedOutcome > curPat[29]:
                 predDirection.append(1.0)
+                pcolor = "#24bc00"
             #kleiner, bzw gleich
             #---> sinkt
             else:
                 predDirection.append(-1.0)
+                pcolor = "#d40000"
+        
+                
+            #plot the outcome, gruen wenn positiv, rot wenn negativ. Als scatterplot punkt an x=35
+            plt.scatter(35, predictedOutcome, c=pcolor, alpha=.3 )
+         
+        #pattern weiter verarbeiten, plotten etc.
+        for eachPattern in simPattern:
+            #plot each similar Pattern 
+            plt.plot(xp, eachPattern) 
             
+            
+            
+               
         #Average berechnen, ALTERNATIVEN?
-        predictionAverage = reduce(lambda x, y: x+y, predDirection) / len(predDirection)
+        averagedDirection = reduce(lambda x, y: x+y, predDirection) / len(predDirection)
+        predictionAverage = reduce(lambda x, y: x+y, simPatternOutcome) / len(simPatternOutcome)
         #zum Vergleich: echten Zukunftswert errechnen
         try:
-            realOutcomeRange = allData[startPoint+30:startPoint+40]
+            #warum +30? Startpoint ist doch schon Endpoint des CurrentPatterns?
+            #realOutcomeRange = allData[startPoint+30:startPoint+40]
+            realOutcomeRange = allData[startPoint-2:startPoint+28]
             realAvgOutcome = reduce(lambda x, y: x+y, realOutcomeRange) / len(realOutcomeRange)
-            realMovement = percentChange(allData[startPoint], realAvgOutcome)
+            #realMovement = percentChange(allData[startPoint], realAvgOutcome)
+            realMovement = percentChange(allData[startPoint-3], realAvgOutcome)
+            
+
+            
+
+               
+            plt.scatter(40, realMovement, c="#54fff7", s=25)        
+            plt.scatter(40, predictionAverage, c="b", s=25)
+            
+            plt.plot(xp, curPat, "#54fff7", linewidth = 5)
+            plt.grid(True)
+            plt.title("Pattern Recognition")
             
             
-            #print "prediction: ",predictionAverage
-            #print "real movement: ",realMovement
-            if predictionAverage >0:
-                print "Prediction: Stock will rise"
-                if realMovement > curPat[29]:
+            #plt Show um den Graf gleich anzuzeigen, oder plt savefig um die Bilddateien in einem Ordner zu speichern
+            #plt.show()
+            
+
+            
+            if averagedDirection >0:
+                #print "Prediction: Stock will rise"
+                if realMovement > 0:
                     accuracyArray.append(100)
+                    po =  pos
+                    plt.savefig('graphs\Pos %s.png' % po)
                 else:
                     accuracyArray.append(0)
-                    print "WRONG!!!"
-            if predictionAverage <0:
-                print "Prediction: Stock will fall."
-                if realMovement < curPat[29]:
+                    ne =  neg
+                    plt.savefig('graphs\Neg %s.png' % ne)
+            if averagedDirection <0:
+                #print "Prediction: Stock will fall."
+                if realMovement < 0:
                     accuracyArray.append(100)
+                    po =  pos
+                    plt.savefig('graphs\Pos %s.png' % po)
                 else:
                     accuracyArray.append(0)
-                    print "WRONG!!!"
+                    ne =  neg
+                    plt.savefig('graphs\Neg %s.png' % ne)
+                    
+                    
+            
+            
         #Problem: wenn die Analyse das Ende erreicht und die Punkte nicht mehr fuer eine Prognose genuegen gibt es einen Error            
         except TypeError:
             return
             
-        
+            
+    
       
         
         
@@ -148,7 +210,10 @@ def dataCollector(stock_name):
   
 accuracyArray = []
 samps = 0  
-for sym in symbols:
+accuracyAverage = 0
+pos = 1
+neg = 1
+for sym in symbols[3:]:
     #DE weil es deutsche Werte sind, ADS.DE = Adidas, ADS = Alliance Data ...
     sym = "%s.DE" % sym   
     print "Symbol: ", sym
@@ -176,7 +241,22 @@ for sym in symbols:
         startPoint+=1
         samps +=1
         patternRecognition()
-        accuracyAverage = reduce(lambda x, y: x+y, accuracyArray) / len(accuracyArray)
-        print "Backtested Accuracy is: ", str(accuracyAverage)+"% after", samps, " samples"
+        accuracyAverageNew = reduce(lambda x, y: x+y, accuracyArray) / len(accuracyArray)
+        currentTime = time.time()
+        minutes = (currentTime - totalStart)/ 60
+        print "Process, so far took: ", round(minutes,2), " minutes."
+        if accuracyAverageNew > accuracyAverage:
+            print "++++++ Backtested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
+            pos +=1
+        elif accuracyAverageNew < accuracyAverage:
+            print "------ Backested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
+            neg +=1
+        else:
+            print "====== Backested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
+        accuracyAverage = accuracyAverageNew
+    currentTime = time.time()
+    minutes = (currentTime - totalStart)/ 60
+    print "Process, so far took: ", minutes, " seconds."
+    print "-#-#-#"*30
     
     
