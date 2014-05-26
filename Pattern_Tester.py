@@ -49,15 +49,18 @@ def patternRecognition():
     patternFound = 0
     simPattern = []
     simPatternOutcome = []
+    result = 5
     
     #gleicht ALLE pattern in der patternAr ab.
     #similarity ist einfache prozent aehnlichkeit, bietet viel spielraum fuer verbesserung!
     
+    linecount = 0
+    linelist = []
 
     #with open("DAX_30Pattern_10_Future_2000_to_2010.txt") as file:
-    with open("Test_DAX_Pattern.txt") as file:
+    with open("DAX_30Pattern_10_Future_2005_2010.txt") as file:
         for line in file:
-            
+            linecount += 1    
             
             try:
                 pattern, futureOutcome = line.split(";")
@@ -86,9 +89,10 @@ def patternRecognition():
             
             if simResult >75:
                 patternFound = 1
-                   
+                linelist.append(linecount)
                 simPattern.append(eachPattern)
                 simPatternOutcome.append(futureOutcome)
+                
             
             xp = []
             for i in range(1,31):
@@ -96,7 +100,15 @@ def patternRecognition():
                 xp.append(i)
             
             
-    predDirection = []       
+    predDirection = []     
+    
+    #print len(simPattern) 
+    #print linelist
+    
+    for eachPat in simPattern:
+         simPattern.count(eachPat)
+    
+    
     if patternFound == 1:
         
         
@@ -112,9 +124,10 @@ def patternRecognition():
             
         for predictedOutcome in simPatternOutcome:
             
-            #wenn das predictedOutcome groesser ist als der letzte Punkt im aktuellen Pattern
+            #wenn das predictedOutcome groesser ist als (der letzte Punkt im aktuellen Pattern) 0.
             #---> steigt
-            if predictedOutcome > curPat[29]:
+            #if predictedOutcome > curPat[29]:
+            if predictedOutcome > 0:                
                 predDirection.append(1.0)
                 pcolor = "#24bc00"
             #kleiner, bzw gleich
@@ -168,22 +181,19 @@ def patternRecognition():
                 #print "Prediction: Stock will rise"
                 if realMovement > 0:
                     accuracyArray.append(100)
-                    po =  pos
-                    plt.savefig('graphs\Pos %s.png' % po)
+                    result = 1
                 else:
                     accuracyArray.append(0)
-                    ne =  neg
-                    plt.savefig('graphs\Neg %s.png' % ne)
+                    result = 0
             if averagedDirection <0:
                 #print "Prediction: Stock will fall."
                 if realMovement < 0:
                     accuracyArray.append(100)
-                    po =  pos
-                    plt.savefig('graphs\Pos %s.png' % po)
+                    result = 1
                 else:
                     accuracyArray.append(0)
-                    ne =  neg
-                    plt.savefig('graphs\Neg %s.png' % ne)
+                    result = 0
+
                     
                     
             
@@ -194,8 +204,9 @@ def patternRecognition():
             
             
     
-      
-        
+    graph = plt 
+    
+    return (graph,result)
         
 
 
@@ -210,10 +221,10 @@ def dataCollector(stock_name):
   
 accuracyArray = []
 samps = 0  
-accuracyAverage = 0
+accuracyAverage = "NA"
 pos = 1
 neg = 1
-for sym in symbols[3:]:
+for sym in symbols:
     #DE weil es deutsche Werte sind, ADS.DE = Adidas, ADS = Alliance Data ...
     sym = "%s.DE" % sym   
     print "Symbol: ", sym
@@ -240,23 +251,33 @@ for sym in symbols[3:]:
         curPat = currentPattern()
         startPoint+=1
         samps +=1
-        patternRecognition()
-        accuracyAverageNew = reduce(lambda x, y: x+y, accuracyArray) / len(accuracyArray)
+        graph, result = patternRecognition()
+        
         currentTime = time.time()
         minutes = (currentTime - totalStart)/ 60
         print "Process, so far took: ", round(minutes,2), " minutes."
-        if accuracyAverageNew > accuracyAverage:
-            print "++++++ Backtested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
-            pos +=1
-        elif accuracyAverageNew < accuracyAverage:
-            print "------ Backested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
-            neg +=1
-        else:
-            print "====== Backested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
-        accuracyAverage = accuracyAverageNew
+        
+        try:
+            accuracyAverageNew = reduce(lambda x, y: x+y, accuracyArray) / len(accuracyArray)
+            if accuracyAverageNew > accuracyAverage:
+                print "++++++ Backtested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
+            if accuracyAverageNew < accuracyAverage:
+                print "------ Backested Accuracy is: ", str(accuracyAverageNew)+"% after", samps, " samples"
+            if accuracyAverageNew == accuracyAverage:
+                print "====== Backested Accuracy is: ", str(accuracyAverage)+"% after", samps, " samples"
+            accuracyAverage = accuracyAverageNew
+            
+            if result == 1:
+                plt.savefig('graphs\Pos %s.png' % pos)
+                pos += 1
+            if result == 0:
+                 plt.savefig('graphs\Neg %s.png' % neg) 
+                 neg += 1  
+        except TypeError:
+               print "====== Backested Accuracy is: ", str(accuracyAverage)+"% after", samps, " samples"
+        
     currentTime = time.time()
     minutes = (currentTime - totalStart)/ 60
     print "Process, so far took: ", minutes, " seconds."
     print "-#-#-#"*30
-    
     

@@ -45,7 +45,8 @@ def patternStorage():
     patStartTime = time.time()
     
     #letzte Pattern: x+30; dann 10 Perioden fuer die letzte Zukunftsprognose
-    x = len(closeLine) - 40
+    #x = len(closeLine) - 40
+    x = len(closeLine)
     
     y = 30
     
@@ -55,42 +56,49 @@ def patternStorage():
         for i in range(0,30):
             i = abs(29-i)
             p = percentChange(closeLine[y-30], closeLine[y-i])
+            #p = closeLine[y-i]
             pattern.append(p)
 
         
         #entwicklungen in den 10 Perioden nach dem Pattern.
         #diese wird zum avgOutcome und misst sich in Prozent Abweichung vom Punkt1 im Pattern.
         #outcomeRange = closeLine[y+30:y+40]
-        outcomeRange = closeLine[y+1:y+31]
-        
-        
-        currentPoint = closeLine[y]
-        
-        
-        try:
-            avgOutcome = reduce(lambda x, y: x+y, outcomeRange) / len(outcomeRange)
-        
-        except Exception, e:
-            print str(e)
-            avgOutcome=0
+        outcomeRange = closeLine[y+1:y+11]
+        if len(outcomeRange) == 10:
             
-        #die kommenden 10 Perioden in einem durchschnittswert 
-        futureOutcome = percentChange(currentPoint, avgOutcome)
-        
-
-
-        patternAr.append(pattern)
-        performanceAr.append(futureOutcome)
-
-        y+=1
-        
+            
+            currentPoint = closeLine[y]
+            
+            
+            try:
+                avgOutcome = reduce(lambda x, y: x+y, outcomeRange) / len(outcomeRange)
+            
+            except Exception, e:
+                print str(e)
+                avgOutcome=0
+                
+            #die kommenden 10 Perioden in einem durchschnittswert 
+            futureOutcome = percentChange(currentPoint, avgOutcome)
+    
+            
+    
+    
+            patternAr.append(pattern)
+            performanceAr.append(futureOutcome)
+    
+            y+=1
+        else:
+            patEndTime = time.time()
+            print "Pattern storage took: ", patEndTime - patStartTime, " seconds"
+            return
+ 
     patEndTime = time.time()
     print "Pattern storage took: ", patEndTime - patStartTime, " seconds"
     
 
 
 def writer():
-    file = open("___FileName___.txt", "a")
+    file = open("DAX_30Pattern_10_Future_2000_2010.txt", "a")
     
     for pattern in patternAr:
         patternwriter = ""
@@ -117,32 +125,34 @@ def dataCollector(stock_name):
     stock_data = pd.io.data.get_data_yahoo(stock_name, start=datetime.datetime(2000, 1, 1), end = datetime.datetime(2009,12,31))
     
     return stock_data
-closeLine = []
+
 patternAr = []
 performanceAr = []
 for sym in symbols:
-    
+    closeLine = []
+    close = 0
     patternAr = []
     performanceAr = []
     sym = "%s.DE" % sym   
     print "Symbol: ", sym
+    #viele der Stocks sind zu Jung, und es gibt eine Fehlermeldung wenn es zum 31.12.2009 noch keine Werte gibt
     try:
         stock_data = dataCollector(sym)
         close = stock_data["Close"]
-        data_lenght = len(close)
-        for data in close:
-            data=float(data)
-            closeLine.append(data)
-            
-    
-        patternStorage()
-        
-    #viele der Stocks sind zu Jung, und es gibt eine Fehlermeldung wenn es zum 31.12.2009 noch keine Werte gibt
+        #date = stock_data["Date"]
     except IOError:
+        print "ERROR"
         continue
+    
+    data_lenght = len(close)
+    for data in close:
+        data=float(data)
+        closeLine.append(data)
+        
+    patternStorage()
+
+    
     writer()
 
- 
-
-
-
+patEndTime = time.time()
+print "Process finished in :", (patEndTime - patStartTime)/60, " minutes"
